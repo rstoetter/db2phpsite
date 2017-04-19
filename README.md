@@ -3,4 +3,4 @@ Do you want to move your database to the Web without programming a dedicated app
 
 No coding is required; if you have a MySQL database you can create a basic CRUDL (Create, Read, Update, Delete, List large data sets) database front-end in minutes. 
 
-db2phpsite is highly configurable: You may, but do not need to configure the generated code via a script file and you can customize the generated object oriented PHP code easily in order to build a more sophisticated database application.
+Moreover the PHP CLI application db2phpsite is highly configurable: You may, but do not need to configure the generated code via a script file and you can customize the generated object oriented PHP code easily in order to build a more sophisticated database application.
