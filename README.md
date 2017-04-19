@@ -38,7 +38,16 @@ db2phpsite supports the deveolper by taking lots of detail works, so as to the d
 
 Other features are the cloning of modules and the ability to add new pages to the website, which are written by the programmer.
 
-Coming soon: This repository is under heavy development yet and will be published about August 2017. If you are interested in helping to produce the prototype then you are welcome!
+Coming soon: This repository is under heavy development yet and will be published about August 2017. 
+
+If you are interested in helping to produce the prototype then you are welcome! We would need 
+- PHP and C/C++ Programmers,
+- web developers,
+- web designers, 
+- documentators,
+- database specialists,
+- translators,
+- Testers.
 
 Greets,
 
@@ -83,7 +92,16 @@ db2phpsite nimmt dem Entwickler sehr viele Detailarbeiten ab, so dass er sich da
 
 Weitere Features sind etwa das Klonen von Modulen oder aber das Hinzufügen von Modulen, die nur vom Programmierer geschriebenen Code enthalten.
 
-Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll ab August 2017 befüllt werden. Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen!
+Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll ab August 2017 befüllt werden. 
+
+Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen! Wir benötigen unter anderem 
+- PHP and C/C++ Programmierer,
+- Web-Entwickler, 
+- Web-Designer, 
+- Dokumentatoren ,
+- Datenbankspezialisten,
+- Übersetzer,
+- Tester.
 
 Herzliche Grüße
 
