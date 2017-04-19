@@ -2,9 +2,9 @@ this is the file README.md for mk-sql-data - it is written in English and in Ger
 
 # db2phpsite
 
-#####################################################
+-----------------------------------------------------
 English summary
-#####################################################
+-----------------------------------------------------
 
 Do you want to move your database to the Web without programming a dedicated application? Do you want to create a Web application without coding? Then you need a database application builder such as db2phpsite. db2phpsite is much more than a form builder: it's a piece of software which makes the creation of PHP online database applications easy and fast.
 
@@ -12,7 +12,7 @@ No coding is required: If you have a MySQL database you can create your first ba
 
 Moreover the PHP CLI application db2phpsite is highly configurable: You may, but do not need to configure the generation of the code via a script file and you can customize the generated object oriented PHP code (with CSS and Javascript portions) easily in order to build a more sophisticated database application.
 
-Overview:
+## Overview
 
 db2phpsite is a code generator, which analyzes the contents of a database and then creates a web site, which  is based on the data in the database.
 
@@ -38,15 +38,15 @@ db2phpsite supports the deveolper by taking lots of detail works, so as to the d
 
 Other features are the cloning of modules and the ability to add new pages to the website, which are written by the programmer.
 
-Coming soon: This repository will be published about Juli 2017. If you are interested in helping to produce the prototype then you are welcome!
+Coming soon: This repository is under heavy development yet and will be published about August 2017. If you are interested in helping to produce the prototype then you are welcome!
 
 Greets,
 
 Rainer Stötter
 
-#####################################################
+-----------------------------------------------------
 Deutsche Zusammenfassung
-#####################################################
+-----------------------------------------------------
 
 Möchten Sie Ihre Datenbank ins Web transportieren, ohne eine dedizierte Anwendung zu programmieren?  Möchten Sie eine internetfähige Applikation ohne Programmieraufwand? Dann benötigen Sie ein Programm, welches Datenbankanwendungen erzeugt wie etwa db2phpsite. db2phpsite ist dabei mehr als ein Formulargenerator: Es ist ein Programm, welches die Erzeugung einer auf PHP basierenden Online-Datenbankapplikation einfach und schnell macht.
 
@@ -54,7 +54,7 @@ Dabei ist kein Programmieraufwand nötig: Wenn Sie eine MySQL Datenbank besitzen
 
 Zudem ist das in PHP geschriebene CLI- ( kommandozeilenorientierte ) Programm db2phpsite hochkonfigurierbar: Sie können, müssen aber nicht, die Erzeugung des Zielcodes über eine Skriptdatei steuern; zudem können Sie den generierten objektorientierten PHP-Code (mit Anteilen in CSS and Javascript) leicht an Ihre Bedürfnisse anpassen, um eine ausgereiftere Datenbankapplikation zu erhalten.
 
-Überblick:
+## Überblick
 
 db2phpsite ist ein Codegenerator, welcher die Inhalte einer Datenbank ausliest und dann eine Webpräsenz erzeugt, welche auf den Daten in der Datenbank beruht.
 
@@ -83,9 +83,9 @@ db2phpsite nimmt dem Entwickler sehr viele Detailarbeiten ab, so dass er sich da
 
 Weitere Features sind etwa das Klonen von Modulen oder aber das Hinzufügen von Modulen, die nur vom Programmierer geschriebenen Code enthalten.
 
-Coming soon: Dieses Repository soll ab Juli 2017 befüllt werden. Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen!
+Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll ab August 2017 befüllt werden. Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen!
 
-Herzliche GRüße
+Herzliche Grüße
 
 Rainer Stötter
 
