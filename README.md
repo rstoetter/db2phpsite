@@ -1,9 +1,12 @@
-this is the file README.md for mk-sql-data - it is written in English and in German / deutsch
+this is the file README.md for db2phpsite - it is written in English and in German / deutsch
+
+# [English summary](#summary-english)
+# [Deutsche Zusammenfassung](#summary-german)
 
 # db2phpsite
 
 -----------------------------------------------------
-English summary
+<a name="summary-english"></a>English summary
 -----------------------------------------------------
 
 Do you want to move your database to the Web without programming a dedicated application? Do you want to create a Web application without coding? Then you need a database application builder such as db2phpsite. db2phpsite is much more than a form builder: it's a piece of software which makes the creation of PHP online database applications easy and fast.
@@ -16,7 +19,7 @@ Moreover the PHP CLI application db2phpsite is highly configurable: You may, but
 
 db2phpsite is a code generator, which analyzes the contents of a database and then creates a web site, which  is based on the data in the database.
 
-db2phpsite produces CRUDL-forms: The data can be created, read, updated, deleted and listed. The forms are written in object-oriented PHP supported by CSS and Javascript shares .
+db2phpsite produces CRUDL-forms: The data can be created, read, updated, deleted and listed. The forms are written in object-oriented PHP supported by CSS and Javascript shares. Dependign on the data type fitting controls are available to input the data values.
 
 The program supports Master-Detail views. Then it creates record-based and listing-based PDFs, too.
 
@@ -54,7 +57,7 @@ Greets,
 Rainer Stötter
 
 -----------------------------------------------------
-Deutsche Zusammenfassung
+<a name="summary-german"></a>Deutsche Zusammenfassung
 -----------------------------------------------------
 
 Möchten Sie Ihre Datenbank ins Web transportieren, ohne eine dedizierte Anwendung zu programmieren?  Möchten Sie eine internetfähige Applikation ohne Programmieraufwand? Dann benötigen Sie ein Programm, welches Datenbankanwendungen erzeugt wie etwa db2phpsite. db2phpsite ist dabei mehr als ein Formulargenerator: Es ist ein Programm, welches die Erzeugung einer auf PHP basierenden Online-Datenbankapplikation einfach und schnell macht.
@@ -67,17 +70,15 @@ Zudem ist das in PHP geschriebene CLI- ( kommandozeilenorientierte ) Programm db
 
 db2phpsite ist ein Codegenerator, welcher die Inhalte einer Datenbank ausliest und dann eine Webpräsenz erzeugt, welche auf den Daten in der Datenbank beruht.
 
-db2phpsite produziert CRUDL-Formulare: Die einzelnen Felder sind alle auflistbar, editierbar, ansehbar, auflistbar und neue
-Datensätze können hinzugefügt werden.
+db2phpsite produziert CRUDL-Formulare: Die einzelnen Felder sind alle auflistbar, editierbar, ansehbar, löschbar und neue
+Datensätze können hinzugefügt werden. Die Formulare sind objektorientiert aufgebaut in PHP mit CSS und Javascript-Anteilen. Je nach Datentyp kommen entsprechende Steuerelemente für die Eingabe der Daten zum Einsatz.
 
 Master-Detail-Ansichten sind ebenso konfigurierbar wie PDF-Ausdrucke des Listings bzw von einzelnen Datensätzen.
 
 Out of the Box liefert das Programm auch noch eine  Benutzerverwaltung; den Benutzer und Benutzergruppen können Rechte auf Tabellenebene, auf Feldebene oder basierend auf Formularen zugesprochen werden.
 
-Auch ist die erzeugte Website obendrein mandanten- sowie buchungskreisfähig. Also kann etwa eine  Einrichtung, verwaltet werden, die wiederum untergeordnete
-Einheiten verwaltet, bedient werden. Die Webpräsenz kann in einer XAMP- ( LAMP, WAMP usw, also Apache Webserver, MySQL-Datenbank und PHP-Umgebung) Umgebung laufen, ist also auf jedem denkbaren Betriebssystem lauffähig - sei es nun
-Linux, MS Windows oder OS/X usw. Die nötigen Programmpakete mit Webserver, SQL-Datenbankserver und PHP-Umgebung sind übrigens kostenlos und freie
-Software und sind auf Millionen von Internetplattformen im Einsatz, gut gewartet und hoch leistungsfähig.
+Auch ist die erzeugte Website obendrein mandanten- sowie buchungskreisfähig. Also kann etwa eine  Einrichtung, die wiederum untergeordnete Einheiten verwaltet, bedient werden. Die Webpräsenz kann in einer XAMP- ( LAMP, WAMP usw, also Apache Webserver, MySQL-Datenbank und PHP-Umgebung) Umgebung laufen, ist also auf jedem denkbaren Betriebssystem lauffähig - sei es nun
+Linux, MS Windows oder OS/X usw. Die nötigen Programmpakete mit Webserver, SQL-Datenbankserver und PHP-Umgebung sind übrigens kostenlos und freie Software und sind auf Millionen von Internetplattformen im Einsatz, gut gewartet und hoch leistungsfähig.
 
 Die Klienten benötigen nur einen Webbrowser zur Bedienung und die Webpräsenz lagert zentral auf einem Server, so dass die Wartung ein Kinderspiel ist.
 
