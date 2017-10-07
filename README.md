@@ -25,9 +25,9 @@ The program supports Master-Detail views. Then it creates record-based and listi
 
 Out of the box there is an user management system included. The users and user groups can be granted view, table and field rights.
 
-The generatd Website is able to manage mandatories and accounting areas. Therefore Also you can deploy it to an institution, which is divided into ancillary institutions.
+The generatd website is able to manage mandatories and accounting areas. Therefore you can deploy it to an institution, which is divided into ancillary institutions.
 
-The generated code runs in a XAMP (LAMP, WAMP etc.consisting of Apache web server, MySQL database and PHP environment ) environment. Therefore it is runnable on any imaginable operating system - may it be Linux, MS Windows or Mac OS/X. The necessary psoftware packages with web server, SQL-database and PHP environment are free of charge and free software. They are successfully used on millions of internet platforms, well-maintained and highly efficient.
+The generated code runs in a XAMP (LAMP, WAMP etc.consisting of Apache web server, MySQL database and PHP environment ) environment. Therefore it is runnable on any imaginable operating system - may it be Linux, MS Windows or Mac OS/X. The necessary software packages with web server, SQL-database and PHP environment are free of charge and free open source software. They are successfully used on millions of internet platforms, well-maintained and highly efficient.
 
 The clients merely need a web browser to interact with the datbase and the website resides cntrally on a server, which makes the maintainance easy-peasy.
 
@@ -37,11 +37,11 @@ db2phpsite supports easy internationalizing, too; new language packages can be a
 
 The generated PHP code can be maintained later by a programmer and the changes will be consistent between later runs of db2phpsite. Moreover the output of the program can be configured by a script file via hundreds of options without programming knnowledge.
 
-db2phpsite supports the deveolper by taking lots of detail works, so as to the developer can concentrate on the important things. For example creates db2phpsite in 90 seconds out of a databse with 36 tables and 288 fields a website, which consists of 1.700 modules and approximately 60.000 lines of code. In order to produce this amount of code by yourself you would need months.
+db2phpsite supports the deveolper by taking lots of detail works, so as to the developer can concentrate on the important things. For example creates db2phpsite in 90 seconds out of a database with 36 tables and 288 fields a website, which consists of 1.700 modules and approximately 60.000 lines of code. In order to produce this amount of code by yourself you would need months.
 
 Other features are the cloning of modules and the ability to add new pages to the website, which are written by the programmer.
 
-Coming soon: This repository is under heavy development yet and will be published about October 2017. 
+Coming soon: This repository is under heavy development yet and will be published about January 2018. 
 
 If you are interested in helping to produce the prototype then you are welcome! We would need 
 - PHP and C/C++ Programmers,
@@ -93,7 +93,7 @@ db2phpsite nimmt dem Entwickler sehr viele Detailarbeiten ab, so dass er sich da
 
 Weitere Features sind etwa das Klonen von Modulen oder aber das Hinzufügen von Modulen, die nur vom Programmierer geschriebenen Code enthalten.
 
-Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll ab Oktober 2017 erhältlich sein. 
+Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll etwa ab Januar 2018 erhältlich sein. 
 
 Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen! Wir benötigen unter anderem 
 - PHP and C/C++ Programmierer,
