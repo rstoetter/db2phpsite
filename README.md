@@ -1,4 +1,5 @@
-Welcome to README for db2phpsite - it is written in English and in German / deutsch
+Welcome to the README for db2phpsite - it is written in English and in German
+Herzlich willkommen zum README von db2phpsite - das Programm ist weiter unten in deutscher Sprache beschrieben
 
 # [English summary](#summary-english)
 # [Deutsche Zusammenfassung](#summary-german)
