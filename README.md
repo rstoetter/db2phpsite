@@ -1,4 +1,4 @@
-this is the file README.md for db2phpsite - it is written in English and in German / deutsch
+Welcome to README for db2phpsite - it is written in English and in German / deutsch
 
 # [English summary](#summary-english)
 # [Deutsche Zusammenfassung](#summary-german)
@@ -25,7 +25,7 @@ The program supports Master-Detail views. Then it creates record-based and listi
 
 Out of the box there is an user management system included. The users and user groups can be granted view, table and field rights.
 
-The generatd website is able to manage mandatories and accounting areas. Therefore you can deploy it to an institution, which is divided into ancillary institutions.
+The generated website is able to manage mandatories and accounting areas. Therefore you can deploy it to an institution, which is divided into ancillary institutions.
 
 The generated code runs in a XAMP (LAMP, WAMP etc.consisting of Apache web server, MySQL database and PHP environment ) environment. Therefore it is runnable on any imaginable operating system - may it be Linux, MS Windows or Mac OS/X. The necessary software packages with web server, SQL-database and PHP environment are free of charge and free open source software. They are successfully used on millions of internet platforms, well-maintained and highly efficient.
 
@@ -41,7 +41,7 @@ db2phpsite supports the deveolper by taking lots of detail works, so as to the d
 
 Other features are the cloning of modules and the ability to add new pages to the website, which are written by the programmer.
 
-Coming soon: This repository is under heavy development yet and will be published about June 2018. 
+Coming soon: This repository is under heavy development yet and will be published about October 2018. 
 
 If you are interested in helping to produce the prototype then you are welcome! We would need 
 - PHP and C/C++ Programmers,
@@ -93,7 +93,7 @@ db2phpsite nimmt dem Entwickler sehr viele Detailarbeiten ab, so dass er sich da
 
 Weitere Features sind etwa das Klonen von Modulen oder aber das Hinzufügen von Modulen, die nur vom Programmierer geschriebenen Code enthalten.
 
-Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll etwa ab Juni 2018 erhältlich sein. 
+Coming soon: Dieses Repository befindet sich derzeit in Entwicklung und soll etwa ab Oktober 2018 erhältlich sein. 
 
 Wenn Sie Interesse daran haben, an der Erstellung des Prototypen mitzuwirken, dann sind Sie dazu herzlich willkommen! Wir benötigen unter anderem 
 - PHP and C/C++ Programmierer,
